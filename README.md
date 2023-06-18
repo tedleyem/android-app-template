@@ -1,4 +1,4 @@
-# Tab navigation example
+# Expo IOS/Android App Template 
 
 <p>
   <!-- iOS -->
